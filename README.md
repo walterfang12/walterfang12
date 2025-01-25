@@ -50,6 +50,7 @@ I'm Walter_Fang.
 ![npm](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)
 ![Raspberry Pi](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg)
 
-[![Walter_Fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterfang1209)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walterfang1209&layout=compact)](https://github.com/walterfang1209/github-readme-stats)
+[![Walter_Fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterfang12)](https://github.com/walterfang12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walterfang12&layout=compact)](https://github.com/walterfang12/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=walterfang1209&color=green)
