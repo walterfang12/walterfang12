@@ -4,7 +4,7 @@ I'm Walter_Fang.
 
 你好！我是 `Walter_Fang`。这是我在所有平台的 `ID`。
 
-我是一名初一学生，现居浙江宁波，擅长数学和编程。
+我是一名初二学生，现居浙江宁波，擅长数学和编程。
 
 **You kan see my projects here.**
 
